@@ -1,6 +1,6 @@
 # Entrega Proyecto de Configuración de Servidores y Despliegue
 
-`>` **Proyectos KeepCoding - Web 18:** 📁 [repos-kc-web-18.md](https://github.com/your-username/your-username/blob/main/docs/repos-kc-web-18.md)
+`>` **Proyectos KeepCoding - Web 18:** 📁 [repos-kc-web-18.md](https://github.com/pablo-sch/pablo-sch/blob/main/docs/repos-kc-web-18.md)
 
 `>` **Selecciona tu Idioma:** [Inglés](README.md) 🔄 [Alemán](README.de.md)
 
